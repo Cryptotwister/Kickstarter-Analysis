@@ -17,8 +17,6 @@ By creating a pivot table and using the line chart to visualize the outcomes bas
 To be able to analyze the correlation between funding goals and campaigns outcome we used a countifs formula to break down the number of outcomes for "plays" with goals ranging from less than 1000 USD to more than 50000 USD. To visualize the results we used a line chart. We establish, that:
 1. The success persentage of around 70 is for plays with funding goals of less than 5000 USD and 35000 to 45000 USD.
 2. For the goals range of 10000 to 15000 USD the success rate is only slightly above 50%.
-### Challenges and Difficulties Encountered
-
 ## Results
 ### Conclusions on Outcomes based on Launch Date
 1. The worst time is October and December.
