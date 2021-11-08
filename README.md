@@ -20,11 +20,11 @@ To be able to analyze the correlation between funding goals and campaigns outcom
 ### Challenges and Difficulties Encountered
 
 ## Results
-
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
+### Conclusions on Outcomes based on Launch Date
+1. The worst time is October and December.
+2. The best time to launch the Play is May, June and July. Therefore, we recommend to launch a play during summere months.
+### Conclusion on Outcomes based on Goals?
+1. For Louise's goal of above 10000 USD the success rate is about 55%. It is noticible that bringing down the amount of funding needed increases the chances for the play to be successful.
+### Limitations of this dataset
+The dataset provided does not give us the understanding of the demographics  of the backers to be able to target the audience needed, which could definitely increase the chances for the play to succeed.
+### Some other possible tables and graphs that we could create
