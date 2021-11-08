@@ -9,12 +9,14 @@ We use excel to organize, sort and analyze crowdfunding data to find out if ther
 Also, if the amount of funding goals set had any impact on the campaigns to be successful or not.
 ### Analysis of Outcomes Based on Launch Date
 [https://github.com/Cryptotwister/Kickstarter-Analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png]
-By using the line chart to visualize the outcomes based on launch date, we can determine that:
+By creating a pivot table and using the line chart to visualize the outcomes based on launch date, we can determine that:
 1. The best month to launch a successful campaign is May, followed by June and July. However, by the year-end success fate fells dramatically.
 2. The worst time to launch a play campaign is December, since it has the lowest success rate and quite high failure rate.
 ### Analysis of Outcomes Based on Goals
-
-
+[https://github.com/Cryptotwister/Kickstarter-Analysis/blob/main/resources/Outcomes_vs_Goals.png]
+To be able to analyze the correlation between funding goals and campaigns outcome we used a countifs formula to break down the number of outcomes for "plays" with goals ranging from less than 1000 USD to more than 50000 USD. To visualize the results we used a line chart. We establish, that:
+1. The success persentage of around 70 is for plays with funding goals of less than 5000 USD and 35000 to 45000 USD.
+2. For the goals range of 10000 to 15000 USD the success rate is only slightly above 50%.
 ### Challenges and Difficulties Encountered
 
 ## Results
