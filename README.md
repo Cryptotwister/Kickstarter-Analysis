@@ -28,4 +28,4 @@ The dataset provided does not give us the understanding of the demographics  of 
 ### Some other possible tables and graphs that we could create
 Subcategory of Outcomes chart gives us the idea of the success of plays comparing to others. As well as the success of "Theater" as the Parent category also overperforms the counterparts.
 ![Subcategory Outcomes](https://user-images.githubusercontent.com/42978221/140676390-02a958f2-fc44-4823-a75f-76bb15a42266.png)
-
+![Parent Category Outcomes](https://user-images.githubusercontent.com/42978221/140676861-4506ca21-b30e-4243-9924-bd409099a7f7.png)
