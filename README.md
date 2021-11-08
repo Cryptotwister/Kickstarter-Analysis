@@ -1,15 +1,12 @@
 # An Analysis of Kickstarter Campaigns
+Performing analysis on kickstarter dataset to uncover trends in a successful campaigns launched.
 ## Project Overview
-Performing analysis on kickstarter data to uncover trends in campaigns launched in "plays" subcategory.
+A playwright Louise wants to start a fundrising campaign to fund her play "Fever". She is estimating a budget of over 10000USD. Louise’s play came close to its fundraising goal in a short amount of time. And now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals.
 ### Purpose
-The purpose of the project is to help a playwright Louise, who wants to start a fundrising campaign to help fund her play "Fever".
-She is estimating a budget of over $10000 USD.
-Use excel to organize, sort and analyze crowdfunding data to deturming weather there are specific factors that make the project campaign successful.
-We use these insights to help Louise to set up for succsess.
-be able to set her campaign to mirror other successful ones in a same category.
-
+The purpose of the project is to help Louise determine whether there are specific factors that make the project campaign successful.
 ## Analysis and Challenges
-
+We use excel to organize, sort and analyze crowdfunding data to find out if there is a correlation between the outcome of the campaigns and the date when they were launghed.
+Also, if the amount of funding goals set had any impact on the campaigns to be successful or not.
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
