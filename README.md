@@ -26,4 +26,6 @@ To be able to analyze the correlation between funding goals and campaigns outcom
 ### Limitations of this dataset
 The dataset provided does not give us the understanding of the demographics  of the backers to be able to target the audience needed, which could definitely increase the chances for the play to succeed.
 ### Some other possible tables and graphs that we could create
+Subcategory of Outcomes chart gives us the idea of the success of plays comparing to others. As well as the success of "Theater" as the Parent category also overperforms the counterparts.
 ![Subcategory Outcomes](https://user-images.githubusercontent.com/42978221/140676390-02a958f2-fc44-4823-a75f-76bb15a42266.png)
+
