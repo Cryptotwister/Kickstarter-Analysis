@@ -8,7 +8,7 @@ The purpose of the project is to help Louise determine whether there are specifi
 We use excel to organize, sort and analyze crowdfunding data to find out if there is a correlation between the outcome of the campaigns and the date when they were launghed.
 Also, if the amount of funding goals set had any impact on the campaigns to be successful or not.
 ### Analysis of Outcomes Based on Launch Date
-
+![https://github.com/Cryptotwister/Kickstarter-Analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png]
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
