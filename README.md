@@ -26,3 +26,4 @@ To be able to analyze the correlation between funding goals and campaigns outcom
 ### Limitations of this dataset
 The dataset provided does not give us the understanding of the demographics  of the backers to be able to target the audience needed, which could definitely increase the chances for the play to succeed.
 ### Some other possible tables and graphs that we could create
+![Subcategory Outcomes](https://user-images.githubusercontent.com/42978221/140676245-faa743d5-739f-4cb6-97dd-64e04b036ac7.png)
